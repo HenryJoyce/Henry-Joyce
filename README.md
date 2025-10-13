@@ -15,5 +15,5 @@ Apart of the IT course I am studying included is a co-op internship where I aim 
 # Projects / Labs Completed 
 - SOC Fundamentals Lab
 - Junior Security Analys Intro Lab
-- AI/ML Security Threats Lab
+- AI/ML Security Threats Lab | <a href = "https://github.com/HenryJoyce/AI-ML-Security-Threat-Lab"
 - Offensive Security Intro Lab
